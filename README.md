@@ -34,3 +34,9 @@ Write
 
 Write-read
 ![](image/write-read.png)
+
+
+## Directory contents 
+QANTAS/README-------------Readme
+QANTAS/Demo.sln-----------software solution file
+QANTAS/Demo/bin/Debug/Demo--------------software application
