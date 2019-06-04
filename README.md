@@ -5,6 +5,13 @@ Dynamic library file name： RfidApiLib.dll.
 
 Installation:   Install-Package Qantas_Rfid
 
+
+
+## Directory contents 
+* QANTAS/README-------------Readme
+* QANTAS/Demo.sln-----------software solution file
+* QANTAS/Demo/bin/Debug/Demo--------------software application
+
 ## Server Side
 Allows enter port number, easily create a server program, receive data from all clients, and trigger information, displayed in the forms below.
 
@@ -34,3 +41,5 @@ Write
 
 Write-read
 ![](image/write-read.png)
+
+
