@@ -10,7 +10,8 @@ Installation:   Install-Package Qantas_Rfid
 ## Directory contents 
 * QANTAS/README-------------Readme
 * QANTAS/Demo.sln-----------software solution file
-* QANTAS/Demo/bin/Debug/Demo--------------software application
+* QANTAS/Demo/bin/Debug/Demo--------------software application 
+(Double-click the "DEMO" program to start running.Choose COM3 communication port and baud rate 9600bps by default.)
 * QANTAS/RW SDK Function Description(C#）-------------RW SDK Function Description(C#）
 
 ## Server Side
